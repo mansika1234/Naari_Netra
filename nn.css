@@ -1,0 +1,75 @@
+body {
+    background-color: rgb(173, 183, 230);
+    font-family: "Roboto", sans-serif;
+    background-image: url(images/Naari\ Netra.png);
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size:cover;
+    
+  }
+  .signup-box {
+    width: 360px;
+    height: 620px;
+    margin: auto;
+    background-color:transparent;
+    border-radius: 3px;
+    box-shadow: 2px 2px 2px 3px ;
+                
+    
+  }
+  .login-box {
+    width: 360px;
+    height: 280px;
+    margin: auto;
+    border-radius: 3px;
+    background-color: transparent;
+    box-shadow: 2px 2px 2px 3px;
+  }
+  
+  h1 {
+    text-align: center;
+    padding-top: 15px;
+  }
+  h4 {
+    text-align: center;
+  }
+  form {
+    width: 300px;
+    margin-left: 20px;
+  }
+  form label {
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  form input {
+    width: 100px;
+  padding: 7px;
+  border: none;
+  border: 1px solid gray;
+  border-radius: 6px;
+  outline: none;
+}
+input[type="button"] {
+  width: 300px;
+  height: 35px;
+  margin-top: 20px;
+  border: none;
+  background-color: #8749c1;
+  color: white;
+  font-size: 18px;
+}
+p {
+  text-align: center;
+  padding-top: 20px;
+  font-size: 15px;
+}
+.para-2 {
+  text-align: center;
+  color: white;
+  font-size: 15px;
+  margin-top: -10px;
+}
+.para-2 a {
+  color: #2936e7;
+}
