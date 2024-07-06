@@ -1,0 +1,144 @@
+@charset "ISO-8859-1";
+
+    header {
+        background-color: #333;
+        padding: 15px;   
+       
+    }
+
+    h1 {
+        font-family: 'Merriweather', serif; 
+        font-size: 36px; 
+        font-weight: 700; 
+        color: white;
+        text-align: center;
+        
+  
+    }
+
+    nav {
+        text-align: right;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        
+    }
+
+    nav a {
+        color: #fff;
+        text-decoration: none;
+        margin: 0 10px;
+        font-size: 18px;
+        
+    }
+
+    nav a:hover {
+        text-decoration: none;
+        color: black;
+    }
+  .button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+    color: white;
+    background-color: #007BFF; /* Bootstrap Primary Color */
+    border: none;
+    border-radius: 4px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+      .indexcontent
+         {
+         padding-top: 55px;
+	     font-family:cursive;
+	     font-size: large;  
+	       
+         }
+       img{
+         width:390px;
+         height:250px;
+         border: 5px solid grey;
+         padding-top: 2px;
+ 
+       }
+       
+            .hd {
+        display: block;
+        font-weight: bold;
+        margin-bottom: 5px;
+    }
+    input[type="text"] {
+        width: calc(100% - 12px);
+        padding: 8px;
+        margin: 10px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+    }
+      input[type="email"] {
+        width: calc(100% - 12px);
+        padding: 8px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        margin: 10px;
+    }
+      input[type="number"] {
+        width: calc(100% - 12px);
+        padding: 8px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        margin: 10px;
+    }
+    input[type="password"] {
+        width: calc(100% - 12px);
+        padding: 8px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        margin: 10px;
+    }
+    input[type="submit"] {
+        width: 100%;
+        padding: 10px;
+        margin-top: 5px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+    input[type="submit"]:hover {
+        background-color: #0056b3;
+    }
+       input[type="reset"] {
+        width: 100%;
+        padding: 10px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        margin-top: 5px;
+    }
+    input[type="reset"]:hover {
+        background-color: #0056b3;
+        
+    }
+    
+    table{
+    margin-top: 30px;
+    }
+		
+  body{
+         background-color: #E2F7FC
+      }
+      
+      #tarea{
+		  font-size: 50px;
+		  font-family:'Times New Roman', Times, serif;
+		  color: orangered;
+	}
+	
+	
+	
